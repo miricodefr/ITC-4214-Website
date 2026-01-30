@@ -1,7 +1,7 @@
 # ITC-4214-Website
 Midterm project of Internet Programming
 
-This midterm porject will be about **Do It For You** - an ai website maker.
+This midterm porject will be about **Fit The Need** - an ai website maker.
 
 Requirements:
 
